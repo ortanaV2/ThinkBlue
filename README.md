@@ -1,10 +1,13 @@
 <img width="3840" height="659" alt="ThinkBlue" src="https://github.com/user-attachments/assets/cdb42ab5-0391-411b-b910-5490537372b6" />
 
-**Marine Ecosystem Simulation with Reinforcement Learning Agents**
+### **Marine Ecosystem Simulation with Reinforcement Learning Agents**
 
-Transforming the complexity of marine ecosystems into a living laboratory - where environmental scenarios play out in minutes, revealing adaptation patterns and informing strategies to protect our oceans.
+### Transforming the complexity of marine ecosystems into a living laboratory - where environmental scenarios play out in minutes, revealing adaptation patterns and informing strategies to protect our oceans.
 
 <img width="1431" height="577" alt="thinkbluebanner2" src="https://github.com/user-attachments/assets/99784377-ee13-45ee-b830-726641687e70" />
+
+### A winning project of the Austrian Federal Competition for Artificial Intelligence. Awarded for "AI for Green".
+<img width="300" height="137" alt="image" src="https://github.com/user-attachments/assets/255c224b-5cdf-4244-8da3-f54c435dad80" />
 
 ## Core Features
 
